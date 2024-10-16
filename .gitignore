@@ -1,1 +1,7 @@
+# general 
 .DS_Store
+
+# ignore dataset
+/Datasets/*
+/Datasets/*/
+
