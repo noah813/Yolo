@@ -5,3 +5,6 @@
 /Datasets/*
 /Datasets/*/
 
+# ...but these:
+!/Datasets/TennisBallTracker/
+

@@ -6,4 +6,6 @@ model = YOLO("yolo11n.pt")
 model = YOLO("yolo11n.yaml").load("yolo11n.pt")
 
 
-results = model.train(data="coco8.yaml", epochs=100, imgsz=640)
+print("Enter data path:")
+data = input()
+results = model.train(data=data, epochs=100, imgsz=640, cache=True, device=0, )
