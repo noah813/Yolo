@@ -12,11 +12,3 @@ visit [pytorch install](https://pytorch.org/get-started/locally/)
 ```pip install ultralytics```
 5. Clone this repository
 ```git clone https://github.com/noah813/Yolo.git```
-
-`````````
-`````````
-`````````
-`````````
-`````````
-`````````
-`````````
