@@ -1,5 +1,5 @@
 # Colab
-1. Open setup.ipynb in colab
-2. Clone Yolo repository to setup.ipynb
+1. Open Example.ipynb in colab
+2. Install ultralytics and clone this repository
 # Local
-1. Clone Yolo repository to local storage
+1. Clone this repository to local storage
