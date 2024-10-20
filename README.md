@@ -1,8 +1,14 @@
 # Start
-## Colab
+## Colab/Jupyter Notebook Environment
 1. Open Example.ipynb in colab
 2. Install ultralytics and clone this repository
-## Local
+
+```bash
+!pip install ultralytics
+!git clone https://github.com/noah813/Yolo.git
+```
+
+## Local Environment
 1. Install miniconda
 2. Create conda environment
 
