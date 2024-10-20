@@ -10,10 +10,7 @@
 conda create -n <env-name> python=<python-version>
 ```
 
-3. Install pytorch
-
-visit [pytorch install](https://pytorch.org/get-started/locally/)
-
+3. Install pytorch visit [pytorch install](https://pytorch.org/get-started/locally/)
 4. Install ultralytics
 
 ```bash
