@@ -7,4 +7,4 @@ __pycache__/
 
 # ...but these:
 !/Datasets/TennisBallTracker/
-
+!/Datasets/Tennis ball/

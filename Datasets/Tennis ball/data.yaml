@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['tennis-ball']
+
+roboflow:
+  workspace: ramiro-chuva-1geds
+  project: tennis-ball-8ixxh
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ramiro-chuva-1geds/tennis-ball-8ixxh/dataset/1
