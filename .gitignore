@@ -1,6 +1,6 @@
 # general 
 .DS_Store
-
+__pycache__/
 # ignore dataset
 /Datasets/*
 /Datasets/*/
