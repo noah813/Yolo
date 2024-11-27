@@ -2,7 +2,7 @@
 
 This repository provides a YOLO-based model for tracking tennis balls in videos, with pre-trained models and sample videos to get started quickly.
 
-<center><img src="https://github.com/noah813/Yolo/blob/main/.github/images/Processed_Match.gif"></center>
+<center><img src="https://github.com/noah813/Yolo/blob/main/.github/images/Processed_Match.gif" width="100%"></center>
 
 ## Getting Started
 
