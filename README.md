@@ -1,30 +1,13 @@
 # Start
-## Colab/Jupyter Notebook Environment
-1. Open Example.ipynb in colab
-2. Install ultralytics and clone this repository
-
-```bash
-!pip install ultralytics
-!git clone https://github.com/noah813/Yolo.git
-```
-
-## Local Environment
-1. Install miniconda
-2. Create conda environment
-
-```bash
-conda create -n <env-name> python=<python-version>
-```
-
-3. Install pytorch visit [pytorch install](https://pytorch.org/get-started/locally/)
-4. Install ultralytics
-
-```bash
-pip install ultralytics
-```
-
-5. Clone this repository
+1. Clone this repository
 
 ```bash
 git clone https://github.com/noah813/Yolo.git
+```
+
+2. Install pytorch visit [pytorch install](https://pytorch.org/get-started/locally/)
+3. Install the requirements
+
+```bash
+pip install -r requirements.txt
 ```
