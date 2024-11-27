@@ -11,3 +11,19 @@ git clone https://github.com/noah813/Yolo.git
 ```bash
 pip install -r requirements.txt
 ```
+4. Put/install pretrained models/input videos into assets folder
+
+[download sample assets](https://drive.google.com/drive/folders/1xtU5YQ5dqT_gsFislNT9TBftjY-ZTuKs?usp=share_link)
+
+5. run
+
+```bash
+python main.py <args>
+```
+
+# Arguments
+- ```path_ball_track_model```
+- ```path_court_model```
+- ```path_bounce_model```
+- ```path_input_video```
+- ```path_output_video```
