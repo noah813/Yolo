@@ -2,7 +2,7 @@
 
 This repository provides a YOLO-based model for tracking tennis balls in videos, with pre-trained models and sample videos to get started quickly.
 
-![Tennis Ball Tracker](https://github.com/noah813/Yolo/blob/main/.github/images/Processed_Match.gif)
+<center><img src="https://github.com/noah813/Yolo/blob/main/.github/images/Processed_Match.gif"></center>
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ git clone https://github.com/noah813/Yolo.git
 For installation instructions tailored to your environment, visit the official PyTorch installation guide:  
 [PyTorch Installation Guide](https://pytorch.org/get-started/locally/)
 
-![PyTorch Setup](https://raw.githubusercontent.com/noah813/Yolo/refs/heads/main/.github/images/Screenshot%202024-10-23%20at%203.02.41%E2%80%AFPM.png)
+<center><img src="https://raw.githubusercontent.com/noah813/Yolo/refs/heads/main/.github/images/Screenshot%202024-10-23%20at%203.02.41%E2%80%AFPM.png"></center>
 
 ### 3. Install Dependencies
 
